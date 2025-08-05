@@ -1,0 +1,19 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables / config
+.env
+
+# Data files (if large, you might not want to commit raw data)
+data/*.csv
+data/*.parquet
