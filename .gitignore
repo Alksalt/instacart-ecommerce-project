@@ -17,3 +17,4 @@ env/
 # Data files (if large, you might not want to commit raw data)
 data/*.csv
 data/*.parquet
+.vscode/
